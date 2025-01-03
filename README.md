@@ -1,5 +1,5 @@
 # SNP-Distance-Matrix-Generator
-A script to calculate pairwise SNP distances from a core-genome VCF file and generate a distance matrix with optional simplification. Designed for bioinformatics workflows, this tool provides an easy-to-use interface for analyzing genomic similarities and differences.
+A script to calculate pairwise SNP distances from a core-genome VCF file and generate a distance matrix. Designed for bioinformatics workflows, this tool provides an easy-to-use interface for analyzing genomic similarities and differences.
 
 ## Features
 - Calculates pairwise SNP distances between samples in a VCF file.
